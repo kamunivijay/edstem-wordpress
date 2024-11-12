@@ -1,0 +1,137 @@
+[11-Nov-2024 16:34:49 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:34:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin-ajax.php(22): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:34:50 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:34:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin-ajax.php(22): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:34:50 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:34:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin-ajax.php(22): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:34:50 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:34:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin-ajax.php(22): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:34:50 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:34:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin-ajax.php(22): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:34:59 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:34:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin-ajax.php(22): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:35:13 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:35:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin.php(34): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:35:17 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:35:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin.php(34): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:35:21 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:35:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin.php(34): require_once('/home2/aeplitcm...')
+#4 /home2/aeplitcm/public_html/edstem/wp-admin/index.php(10): require_once('/home2/aeplitcm...')
+#5 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:35:24 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:35:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin-ajax.php(22): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:36:21 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:36:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin.php(34): require_once('/home2/aeplitcm...')
+#4 /home2/aeplitcm/public_html/edstem/wp-admin/index.php(10): require_once('/home2/aeplitcm...')
+#5 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:36:59 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:36:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin-ajax.php(22): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:37:25 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:37:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin-ajax.php(22): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:38:59 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:38:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin-ajax.php(22): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:39:41 UTC] PHP Warning:  require(/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php): Failed to open stream: No such file or directory in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
+[11-Nov-2024 16:39:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/product-grid-shortcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php:273
+Stack trace:
+#0 /home2/aeplitcm/public_html/edstem/wp-settings.php(668): include()
+#1 /home2/aeplitcm/public_html/edstem/wp-config.php(96): require_once('/home2/aeplitcm...')
+#2 /home2/aeplitcm/public_html/edstem/wp-load.php(50): require_once('/home2/aeplitcm...')
+#3 /home2/aeplitcm/public_html/edstem/wp-admin/admin-ajax.php(22): require_once('/home2/aeplitcm...')
+#4 {main}
+  thrown in /home2/aeplitcm/public_html/edstem/wp-content/themes/twentytwentyfour/functions.php on line 273
