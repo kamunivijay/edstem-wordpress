@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Edstem - Online shopping</title>
+        <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+        <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0-11/css/all.min.css">
+    </head>
+    <body>
+    	<div class="wrapper">
+    		<div class="product-wraper">
+    			<div class="vi-container">
+    				<div class="product-header">
+						<h2 class="section-title">Our Products</h2>
+					</div>
+    				<div class="product-grid">
+    					<div class="product-item product">
+								<div class="skeleton"></div>
+  								<img data-src="assets/images/cake_1.jpg" alt="Lazy-loaded example" class="lazy-load cta-img">
+    							<div class="product-info">
+									<a class="quickview" href=""><i class="fas fa-eye"></i> Quick View</a>
+									<h3>Superb Christmas Dream Cake</h3>
+	    							<div class="meta">
+	    								<p class="cat">Christmas Cakes</p>
+	    								<p class="price">$123</p>
+	    							</div>
+									<div class="cart-btn">
+										<a href="#" class="vi-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
+									</div>
+	    						</div>
+    					</div>
+						<div class="product-item product">
+								<div class="skeleton"></div>
+  								<img data-src="assets/images/cake_2.jpg" alt="Lazy-loaded example" class="lazy-load cta-img">
+    							<div class="product-info">
+									<a class="quickview" href=""><i class="fas fa-eye"></i> Quick View</a>
+									<h3>Handsome Harry potter Cake </h3>
+	    							<div class="meta">
+	    								<p class="cat">Premium Cakes</p>
+	    								<p class="price">$123</p>
+	    							</div>
+									<div class="cart-btn">
+										<a href="#" class="vi-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
+									</div>
+	    						</div>
+    					</div>
+						<div class="product-item product">
+							<div class="skeleton"></div>
+							<img data-src="assets/images/cake_3.jpg" alt="Lazy-loaded example" class="lazy-load cta-img">
+							<div class="product-info">
+								<a class="quickview" href=""><i class="fas fa-eye"></i> Quick View</a>
+								<h3>Best Bugatti Car Birthday Cake</h3>
+								<div class="meta">
+									<p class="cat">Boys Cake</p>
+									<p class="price">$123</p>
+								</div>
+								<div class="cart-btn">
+									<a href="#" class="vi-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
+								</div>
+							</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+			 
+			  
+ 
+
+    	</div>
+
+    	 <script>
+			document.addEventListener("DOMContentLoaded", () => {
+			const lazyImages = document.querySelectorAll(".lazy-load");
+
+			const imageObserver = new IntersectionObserver((entries, observer) => {
+				entries.forEach((entry) => {
+				if (entry.isIntersecting) {
+					const img = entry.target;
+					const skeleton = img.previousElementSibling;
+
+					// Set the image source
+					img.src = img.getAttribute("data-src");
+
+					// Remove skeleton once image is loaded
+					img.onload = () => {
+					img.style.opacity = 1; // Fade in image
+					skeleton.style.display = "none"; // Remove skeleton
+					};
+
+					observer.unobserve(img); // Stop observing once loaded
+				}
+				});
+			});
+
+			lazyImages.forEach((img) => {
+				imageObserver.observe(img);
+			});
+			});
+		</script>
+    </body>
+</html>
